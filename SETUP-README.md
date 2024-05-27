@@ -1,7 +1,7 @@
 ## First steps to run this properly
 
-npm i
-composer i
+npm i  
+composer i  
 cp .env.example .env <!-- remember to go to .env file after this, to insert your data to connect to your database! -->
 
 ## Model if needed
